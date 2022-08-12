@@ -1,4 +1,4 @@
-//Arithmetic operations(addition,multiplication,subtraction, division)
+//Write a Java Program to  print the sum(addition),multiplication,subtraction, division and remainder of two numbers.
 
 class Operation{
 
@@ -27,6 +27,11 @@ System.out.println("The subtracation of two number is:=" +sub);
 int div= a/b;
 
 System.out.println("The Division of two number is:=" +div);
+  
+int rem= a%b;
+
+System.out.println("The remainder of two number is:=" +rem);
+  
 }
 }
 
