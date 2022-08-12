@@ -1,4 +1,5 @@
-//Average of numbers
+//Write a Java Program that takes five numbers as input to calculate and print the average of the numbers.
+
 
 class Average{
 
