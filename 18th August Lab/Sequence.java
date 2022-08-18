@@ -1,3 +1,5 @@
+// Write a Java program to break an integer into a sequence of individual digits. //
+
 package Operator;
 
 import java.util.Scanner;
