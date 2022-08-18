@@ -1,3 +1,5 @@
+// Write a Java program that accepts two integers from the user and then print the sum,difference,product,average,the distance(the differnce between the two integer),maximum(the larger between the two integer), minimum(the smaller between the two integer)//
+
 package Operator;
 
 import java.util.Scanner;
