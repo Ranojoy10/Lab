@@ -1,0 +1,13 @@
+  
+ 1.write a java program to print sum of odd numbers up to N?
+ 
+ 2. Write a java program to illustrate Calculator class with addition, subtraction, multiplication methods that can take any number of parameters to perform the operation, without using method/constructor overloading.
+ 
+ 4.Movie Theatre Management System, where you can create two classes one is main another one is movie, 
+movie class can have two methods setMovie, getMovie where you can create movieName, movieStartTime, movieEndTime, MovieTicketPrice as instance variables.
+ 
+ 
+	
+Lab session (22nd sep)
+
+
